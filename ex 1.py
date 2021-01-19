@@ -1,0 +1,6 @@
+number_1 = int(input('Введите число 1:'))
+number_2 = int(input('Введите число 2:'))
+word = input('Введите слово:')
+print(number_1)
+print(number_2)
+print(word)
